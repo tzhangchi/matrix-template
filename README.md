@@ -5,12 +5,13 @@ A powerful JavaScript template engine
 ## Quick Start
 
 ```
-npm i -g matrix-template
+npm i matrix-template
 
 ```
 
 ```
-import matrixTemplate from 'matrix-template'
+const matrixTemplate =  require('matrix-template');
 
-matrixTemplate.process('hello ${this.name}',{name:'zhangchi'}) //hello zhangchi
+console.log(matrixTemplate.process('hello ${this.name}', { name: 'zhangchi' }))
+//hello zhangchi
 ```
