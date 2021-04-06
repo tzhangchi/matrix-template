@@ -1,16 +1,16 @@
-# k-template
+# matrix-template
 
 A powerful JavaScript template engine
 
 ## Quick Start
 
 ```
-npm i -g k-template
+npm i -g matrix-template
 
 ```
 
 ```
-import kTemplate from 'k-template'
+import matrixTemplate from 'matrix-template'
 
-zTemplate.process('hello ${this.name}',{name:'zhangchi'}) //hello zhangchi
+matrixTemplate.process('hello ${this.name}',{name:'zhangchi'}) //hello zhangchi
 ```

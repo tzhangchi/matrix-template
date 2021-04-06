@@ -1,11 +1,11 @@
 {
-  "name": "fast-template",
+  "name": "matrix-template",
   "version": "0.0.4",
   "description": "",
   "keywords": [],
-  "main": "dist/k-template.umd.js",
-  "module": "dist/k-template.es5.js",
-  "typings": "dist/types/k-template.d.ts",
+  "main": "dist/matrix-template.umd.js",
+  "module": "dist/matrix-template.es5.js",
+  "typings": "dist/types/matrix-template.d.ts",
   "files": [
     "dist"
   ],

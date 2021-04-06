@@ -1,4 +1,4 @@
-import zTemplate from '../src/k-template'
+import zTemplate from '../src/matrix-template'
 
 /**
  * Dummy test

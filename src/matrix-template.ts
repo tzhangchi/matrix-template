@@ -40,7 +40,7 @@ export default {
             if (e) {
                 console.warn(e)
             } else {
-                return 'k-template process fail'
+                return 'matrix-template process fail'
             }
         }
     }
