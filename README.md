@@ -19,3 +19,9 @@ const matrixTemplate =  require('matrix-template');
 console.log(matrixTemplate.process('hello ${this.name}', { name: 'zhangchi' })); //hello zhangchi
 
 ```
+
+# License
+
+[MIT](https://opensource.org/licenses/MIT)
+
+Copyright (c) 2013-present, zhangchi
